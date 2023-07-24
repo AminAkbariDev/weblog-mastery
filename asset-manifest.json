@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/weblog-mastery/static/css/main.9ef467c7.css",
+    "main.js": "/weblog-mastery/static/js/main.21dee1c5.js",
+    "static/media/blog.jpg": "/weblog-mastery/static/media/blog.75a864275afa72c58bca.jpg",
+    "static/media/home.svg": "/weblog-mastery/static/media/home.5e6655127da033f4b254.svg",
+    "static/media/Yekan-Bakh-FaNum-05-Medium.ttf": "/weblog-mastery/static/media/Yekan-Bakh-FaNum-05-Medium.45281cca684d63170f5a.ttf",
+    "static/media/Yekan-Bakh-FaNum-05-Medium.woff": "/weblog-mastery/static/media/Yekan-Bakh-FaNum-05-Medium.4be8304dcd7ae154a2d3.woff",
+    "static/media/Yekan-Bakh-FaNum-05-Medium.eot": "/weblog-mastery/static/media/Yekan-Bakh-FaNum-05-Medium.6d3273ff71c9496c4de8.eot",
+    "static/media/register.svg": "/weblog-mastery/static/media/register.11f0b5cbcf9d4ed27dcc.svg",
+    "static/media/login.svg": "/weblog-mastery/static/media/login.dda912f8db531ce62845.svg",
+    "index.html": "/weblog-mastery/index.html",
+    "main.9ef467c7.css.map": "/weblog-mastery/static/css/main.9ef467c7.css.map",
+    "main.21dee1c5.js.map": "/weblog-mastery/static/js/main.21dee1c5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ef467c7.css",
+    "static/js/main.21dee1c5.js"
+  ]
+}
